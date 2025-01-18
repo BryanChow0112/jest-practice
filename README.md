@@ -1,4 +1,4 @@
-# Testing Practice
+# Jest Practice
 
 This project demonstrates Test-Driven Development (TDD) using Jest, a JavaScript testing framework. It covers the implementation and testing of various utility functions, showcasing the benefits of writing tests before writing code.
 
